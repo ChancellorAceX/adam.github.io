@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  color: #6A7E93;
+  color: #A6B0BF;
 }
 
 body {
@@ -177,6 +177,7 @@ p.about {
 }
 p.about.name {
   width: 70vw;
+  font-size: 14px;
   text-align: center;
   margin:0;
 }
