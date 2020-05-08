@@ -167,7 +167,7 @@ h1 {
   margin-bottom: 0;
 }
 .about {
-  font-size: 13px;
+  font-size: 14px;
 }
 p.about {
   margin-bottom: 5vh;
@@ -207,6 +207,7 @@ p.about.name {
   }
   p.about {
     margin-bottom: 5vh;
+    font-size: 20px;
   }
   .myself {
     max-width:50vw;
@@ -215,6 +216,7 @@ p.about.name {
     width: 70vw;
     text-align: center;
     margin:0;
+    font-size: 20px;
   }
 }
 
@@ -269,5 +271,6 @@ p.about.name {
     width: 50vw;
     text-align: center;
     margin:0;
+    font-size: 30px;
   }
 }
