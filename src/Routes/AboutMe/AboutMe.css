@@ -1,0 +1,22 @@
+.about {
+  font-size: 14px;
+}
+p.about {
+  margin-bottom: 5vh;
+}
+
+@media (min-width: 760px){
+  .about {
+    font-size: 25px;
+  }
+  p.about {
+    margin-bottom: 5vh;
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1025px){
+  p.about {
+    font-size: 30px;
+  }
+}

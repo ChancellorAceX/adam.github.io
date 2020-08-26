@@ -1,0 +1,33 @@
+.myself {
+  max-width:50vw;
+}
+p.about.name {
+  width: 70vw;
+  font-size: 14px;
+  text-align: center;
+  margin:0;
+}
+
+@media (min-width: 760px) {
+  .myself {
+    max-width:50vw;
+  }
+  p.about.name {
+    width: 70vw;
+    text-align: center;
+    margin:0;
+    font-size: 20px;
+  }
+}
+
+@media (min-width:1025px) {
+  .myself {
+    max-width:20vw;
+  }
+  p.about.name {
+    width: 50vw;
+    text-align: center;
+    margin:0;
+    font-size: 30px;
+  }
+}

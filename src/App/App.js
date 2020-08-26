@@ -25,17 +25,19 @@ class App extends Component {
           <header>
             <Header />
           </header>
-          <Switch>
-            <Route path='/about'>
-              <AboutMe />
-            </Route>
-            <Route path='/projects'>
-              <Projects />
-            </Route>
-            <Route path='/'>
-              <Main />
-            </Route>
-          </Switch>
+          <main>
+            <Switch>
+              <Route path='/about'>
+                <AboutMe />
+              </Route>
+              <Route path='/projects'>
+                <Projects />
+              </Route>
+              <Route path='/'>
+                <Main />
+              </Route>
+            </Switch>
+          </main>
           <footer>
             <Footer />
           </footer>

@@ -1,4 +1,4 @@
-* {
+/* * {
   box-sizing: border-box;
   color: #A6B0BF;
 }
@@ -60,7 +60,7 @@ main {
 }
 ::-webkit-scrollbar {
     width: 0px;
-    background: transparent; /* make scrollbar transparent */
+    background: transparent;
 }
 
 main *{
@@ -273,4 +273,4 @@ p.about.name {
     margin:0;
     font-size: 30px;
   }
-}
+} */

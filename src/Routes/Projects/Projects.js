@@ -2,6 +2,7 @@ import React from 'react';
 import ProjectObject from '../../Resources/ProjectObject';
 import Project from '../../Components/Project/Project';
 import { withRouter } from 'react-router-dom';
+import './Projects.css';
 
 function Projects(props) {
   return (
