@@ -1,0 +1,10 @@
+h5 {
+  margin-bottom: 0;
+}
+
+.address {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top:0;
+}
