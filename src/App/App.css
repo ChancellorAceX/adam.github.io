@@ -19,7 +19,7 @@ main {
   width:100vw;
   background-color:#17181A;
   overflow:auto;
-  min-height: 78.75vh;
+  min-height: 81vh;
   margin-top:7.5vh;
   bottom:7.5vh;
 }
